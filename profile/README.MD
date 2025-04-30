@@ -1,9 +1,9 @@
 <table style="width: 100%">
     <tr style="text-align: center; margin: auto;width: 100%">
-    <td><img src="universal-signage.svg" alt="usign" width="120" height="120"></td>
-    <td><img src="statuschecker.svg" alt="statcheck" width="120" height="120"></td>
-    <td><img src="videowall.svg" alt="vidwall" width="120" height="120"></td>
-    <td><img src="pdfserve.svg" alt="pdfsrv" width="120" height="120"></td>
+    <td><a href="https://github.com/divisionbyinfinity/universal_signage"><img src="universal-signage.svg" alt="usign" width="120" height="120"></a></td>
+    <td><a href="https://github.com/divisionbyinfinity/statuscheck"><img src="statuschecker.svg" alt="statcheck" width="120" height="120"></a></td>
+    <td><a href="https://github.com/divisionbyinfinity/videowall"><img src="videowall.svg" alt="vidwall" width="120" height="120"></a></td>
+    <td><a href="https://github.com/divisionbyinfinity/pdfserve"><img src="pdfserve.svg" alt="pdfsrv" width="120" height="120"></a></td>
   </tr>
     <tr style="text-align: center; margin: auto;width: 100%;">
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/universal-signage">universal signage</a></td>
