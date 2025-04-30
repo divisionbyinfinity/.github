@@ -6,10 +6,10 @@
     <td><img src="pdfserve.svg" alt="pdfsrv" width="120" height="120"></td>
   </tr>
     <tr style="text-align: center; margin: auto;width: 100%;">
-    <td style="width: 25%"><a href="https://github.com/divisionbyinfinity/universal-signage">universal signage</a></td>
-    <td style="width: 25%"><a href="https://github.com/divisionbyinfinity/statuscheck">statuscheck</a></td>
-    <td style="width: 25%"><a href="https://github.com/divisionbyinfinity/videowall">videowall</a></td>
-    <td style="width: 25%"><a href="https://github.com/divisionbyinfinity/pdfserve">pdfserve</a></td>
+    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/universal-signage">universal signage</a></td>
+    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/statuscheck">statuscheck</a></td>
+    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/videowall">videowall</a></td>
+    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/pdfserve">pdfserve</a></td>
   </tr>
     <tr style="text-align: center; margin: auto;width: 100%">
     <td>application</td>
