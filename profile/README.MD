@@ -1,5 +1,5 @@
 <table style="width: 100%">
-    <tr style="text-align: center; margin: auto;width: 100%">
+    <tr style="text-align: center; vertical-align: middle; margin: auto; width: 100%">
     <td><a href="https://github.com/divisionbyinfinity/universal_signage"><img src="universal-signage.svg" alt="usign" width="120" height="120"></a></td>
     <td><a href="https://github.com/divisionbyinfinity/statuscheck"><img src="statuschecker.svg" alt="statcheck" width="120" height="120"></a></td>
     <td><a href="https://github.com/divisionbyinfinity/videowall"><img src="videowall.svg" alt="vidwall" width="120" height="120"></a></td>
