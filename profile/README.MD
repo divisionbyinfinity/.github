@@ -11,13 +11,13 @@
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/statuscheck">statuscheck</a></td>
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/videowall">videowall</a></td>
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/pdfserve">pdfserve</a></td>
-    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/gallery">pdfserve</a></td>
+    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/gallery">gallery</a></td>
   </tr>
     <tr style="text-align: center; margin: auto;width: 100%">
     <td>application</td>
     <td>application</td>
     <td>script</td>
     <td>script</td>
-    <td>gallery</td>
+    <td>script</td>
   </tr>
 </table>
