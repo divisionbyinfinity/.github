@@ -1,3 +1,5 @@
+The scripts are essentially *proof-of-concepts* for possible future projects and mockups to be shared with the developers during the initial conversations or just *quick-and-fast* solutions. 
+
 <table style="width: 100%">
     <tr style="text-align: center; vertical-align: middle; margin: auto; width: 100%">
     <td><a href="https://github.com/divisionbyinfinity/universal_signage"><img src="universal-signage.svg" alt="usign" width="120" height="120"></a></td>
