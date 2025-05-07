@@ -13,7 +13,7 @@ The scripts are essentially *proof-of-concepts* for possible future projects and
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/statuscheck">statuscheck</a></td>
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/videowall">videowall</a></td>
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/pdfserve">pdfserve</a></td>
-    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/gallery">gallery</a></td>
+    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/designer_gallery">designer_gallery</a></td>
   </tr>
     <tr style="text-align: center; margin: auto;width: 100%">
     <td>application</td>
