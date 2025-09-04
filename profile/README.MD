@@ -9,7 +9,7 @@ The scripts are essentially *proof-of-concepts* for possible future projects and
     <td><a href="https://github.com/divisionbyinfinity/gallery"><img src="gallery.svg" alt="gallery" width="120" height="120"></a></td>
   </tr>
     <tr style="text-align: center; margin: auto;width: 100%;">
-    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/universal_signage">universal digital signage</a></td>
+    <td style="width: 250"><a href="https://github.com/divisionbyinfinity/universal-digital-signage">universal digital signage</a></td>
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/statuscheck">statuscheck</a></td>
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/videowall">videowall</a></td>
     <td style="width: 250"><a href="https://github.com/divisionbyinfinity/pdfserve">pdfserve</a></td>
